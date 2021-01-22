@@ -1,0 +1,15 @@
+.btn {
+  font-size: 26px;
+  color: #999;
+  width: 88.67%;
+  height: 80px;
+  margin-bottom: 54px;
+  border: 1px solid #999;
+  border-radius: 10px;
+  outline: none;
+  background-color: #fff;
+}
+
+.btnTitle {
+  vertical-align: top;
+}
