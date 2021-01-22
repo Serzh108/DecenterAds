@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DecenterAds/static/css/main.b35d0039.chunk.css",
+    "main.js": "/DecenterAds/static/js/main.3b5e8cd3.chunk.js",
+    "main.js.map": "/DecenterAds/static/js/main.3b5e8cd3.chunk.js.map",
+    "runtime-main.js": "/DecenterAds/static/js/runtime-main.7235028b.js",
+    "runtime-main.js.map": "/DecenterAds/static/js/runtime-main.7235028b.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/DecenterAds/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.ce316c35.chunk.js": "/DecenterAds/static/js/2.ce316c35.chunk.js",
+    "static/js/2.ce316c35.chunk.js.map": "/DecenterAds/static/js/2.ce316c35.chunk.js.map",
+    "index.html": "/DecenterAds/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/DecenterAds/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.b35d0039.chunk.css.map": "/DecenterAds/static/css/main.b35d0039.chunk.css.map",
+    "static/js/2.ce316c35.chunk.js.LICENSE.txt": "/DecenterAds/static/js/2.ce316c35.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/DecenterAds/static/media/open-sans-v18-latin_cyrillic-regular.ec439cdb.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7235028b.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.ce316c35.chunk.js",
+    "static/css/main.b35d0039.chunk.css",
+    "static/js/main.3b5e8cd3.chunk.js"
+  ]
+}
